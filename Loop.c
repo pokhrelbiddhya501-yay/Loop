@@ -4,7 +4,7 @@ int marks=90;
 if (marks>=90){
 printf ("\n Distinction ");
 }
-else if (marks<90){
+else {
 printf ("\n Keep trying");
 }
 return 0;
