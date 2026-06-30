@@ -1,7 +1,7 @@
 #include <stdio.h>
 int main(){ 
 int number=4;
-if (i=0, i<=4, i++){ 
+for (i=0, i<=4, i++){ 
 printf ("\n hello world");
 }
 return 0;
